@@ -1,0 +1,923 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bibliography biblioType="personal" code="V-000" period="2017-2019" represent="false">
+  <Name>Skupina izbranih raziskovalcev</Name>
+  <Header>
+    <Center> Skupina izbranih raziskovalcev </Center>
+  </Header>
+  <Footer>
+    <Left>Vir: vzajemna baza podatkov COBISS.SI/COBIB.SI</Left>
+    <Right>13.02.2023</Right>
+  </Footer>
+  <Title>Skupina izbranih raziskovalcev</Title>
+  
+  
+  
+&lt;htmlTableTags&gt;
+<table>
+    <tr>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+    </tr>
+</table>
+    <Request format="ISO 690" units="categorized" source="COBIB.SI">
+      <Dates  WoS="13. 2. 2023" Scopus="13. 2. 2023" JCR="17. 11. 2022" 
+SNIP="13. 9. 2022" job="13. 2. 2023"/>
+      <Language  lang="slv" script="lat"/>
+    </Request>
+
+  
+  
+  
+<Recapitulation>
+  <Categorization>
+    <Title>Kategorizacija po metodologiji ARRS - naravoslovje</Title>
+    <TypologyGroup id="1">
+      <Typology id="1.01" c1A1="0" c1A2="1" c1A3="0" c1A4="0" c1B="0" 
+c1C="0" c1D="0" Z="1" NK="0" AII="0" AI="0" A12="1"><WoS TC="22" CI="19" 
+CIAu="1.58"/><Scopus TC="25" CI="22" CIAu="1.83"/></Typology>
+      <Typology id="1.02" c1A1="0" c1A2="1" c1A3="0" c1A4="0" c1B="0" 
+c1C="0" c1D="0" Z="1" NK="0" AII="0" AI="0" A12="1"><WoS TC="27" CI="27" 
+CIAu="9.00"/><Scopus TC="26" CI="26" CIAu="8.67"/></Typology>
+      <Typology id="1.03" c1A1="0" c1A2="0" c1A3="0" c1A4="0" c1B="0" 
+c1C="0" c1D="0" Z="0" NK="0" AII="0" AI="0" A12="0"><WoS TC="0" CI="0" 
+CIAu="0"/><Scopus TC="0" CI="0" CIAu="0"/></Typology>
+    </TypologyGroup>
+    <TypologyGroup id="2">
+      <Typology id="2.01" c2A="0" c2B="0" c2C="0" Z="0" NK="0" AII="0" 
+AI="0" A12="0"/>
+      <Typology id="2.18" c2D="0" Z="0"/>
+      <Typology id="2.24" c2E="0" Z="0" AII="0" AI="0" A12="0"/>
+      <Typology id="2.22" c2E="0" Z="0" AII="0" AI="0" A12="0"/>
+      <Typology id="ed." c2A="0" c2C="0" c2F="0" c2G="0" c2I="0" Z="0"/>
+      <Typology id="2.20" c2H="0" Z="0" NK="0"/>
+      <Typology id="2.26" c2I="0" Z="0" NK="0"/>
+      <Typology id="2.27" c2I="0" Z="0" NK="0"/>
+      <Typology id="2.29" c2J="0" Z="0" NK="0"/>
+    </TypologyGroup>
+    <TypologyGroup id="3">
+      <Typology id="1.16" c1A1="0" c1A2="0" c1A3="0" c1A4="0" c1B="0" 
+c1C="0" c3A="0" c3B="0" c3C="0" c3D="0" Z="0" NK="0" AII="0" AI="0" 
+A12="0"><WoS TC="0" CI="0" CIAu="0"/><Scopus TC="0" CI="0" 
+CIAu="0"/></Typology>
+      <Typology id="1.26" c3E="0" c3F="0" Z="0" NK="0"/>
+    </TypologyGroup>
+    <TypologyGroup id="4">
+      <Typology id="1.06" c1A1="0" c1A2="0" c1A3="0" c1A4="0" c1B="0" 
+c1C="0" c4C="0" c4D="0" Z="0" NK="0" AII="0" AI="0" A12="0"><WoS TC="0" 
+CI="0" CIAu="0"/><Scopus TC="0" CI="0" CIAu="0"/></Typology>
+      <Typology id="1.08" c1A1="0" c1A2="0" c1A3="0" c1A4="0" c1B="0" 
+c1C="0" c4C="1" c4D="0" Z="1" NK="0" AII="0" AI="0" A12="0"><WoS TC="3" 
+CI="3" CIAu="0.38"/><Scopus TC="0" CI="0" CIAu="0"/></Typology>
+    </TypologyGroup>
+    <Typology id="prof." SU="5"><WoS TC="0" CI="0" CIAu="0"/><Scopus TC="0" 
+CI="0" CIAu="0"/></Typology>
+      <Typology id="sum." Z="3" S="5" AII="0" AI="0" A12="2"><WoS TC="52" 
+CI="49" CIAu="10.95"/><Scopus TC="51" CI="48" CIAu="10.49"/></Typology>
+  </Categorization>
+  <Points>
+    <Title>Točke</Title>
+    <TypologyGroup id="1">
+      <Typology id="1.01" c1A1="0" c1A2="7.45" c1A3="0" c1A4="0" c1B="0" 
+c1C="0" c1D="0" Z="7.45" NK="0" AII="0" AI="0" A12="7.45"/>
+      <Typology id="1.02" c1A1="0" c1A2="30.46" c1A3="0" c1A4="0" c1B="0" 
+c1C="0" c1D="0" Z="30.46" NK="0" AII="0" AI="0" A12="30.46"/>
+      <Typology id="1.03" c1A1="0" c1A2="0" c1A3="0" c1A4="0" c1B="0" 
+c1C="0" c1D="0" Z="0" NK="0" AII="0" AI="0" A12="0"/>
+    </TypologyGroup>
+    <TypologyGroup id="2">
+      <Typology id="2.01" c2A="0" c2B="0" c2C="0" Z="0" NK="0" AII="0" 
+AI="0" A12="0"/>
+      <Typology id="2.18" c2D="0" Z="0"/>
+      <Typology id="2.24" c2E="0" Z="0" AII="0" AI="0" A12="0"/>
+      <Typology id="2.22" c2E="0" Z="0" AII="0" AI="0" A12="0"/>
+      <Typology id="ed." c2A="0" c2C="0" c2F="0" c2G="0" c2I="0" Z="0"/>
+      <Typology id="2.20" c2H="0" Z="0" NK="0"/>
+      <Typology id="2.26" c2I="0" Z="0" NK="0"/>
+      <Typology id="2.27" c2I="0" Z="0" NK="0"/>
+      <Typology id="2.29" c2J="0" Z="0" NK="0"/>
+    </TypologyGroup>
+    <TypologyGroup id="3">
+      <Typology id="1.16" c1A1="0" c1A2="0" c1A3="0" c1A4="0" c1B="0" 
+c1C="0" c3A="0" c3B="0" c3C="0" c3D="0" Z="0" NK="0" AII="0" AI="0" 
+A12="0"/>
+      <Typology id="1.26" c3E="0" c3F="0" Z="0" NK="0"/>
+    </TypologyGroup>
+    <TypologyGroup id="4">
+      <Typology id="1.06" c1A1="0" c1A2="0" c1A3="0" c1A4="0" c1B="0" 
+c1C="0" c4C="0" c4D="0" Z="0" NK="0" AII="0" AI="0" A12="0"/>
+      <Typology id="1.08" c1A1="0" c1A2="0" c1A3="0" c1A4="0" c1B="0" 
+c1C="0" c4C="3.13" c4D="0" Z="3.13" NK="0" AII="0" AI="0" A12="0"/>
+    </TypologyGroup>
+    <Typology id="prof." SU="8.69"/>
+    <Typology id="sum." Z="41.04" S="8.69" AII="0" AI="0" A12="37.91"/>
+    <Typology id="sci." SC="48.28" Z="41.04" S="7.24" AII="0" AI="0" 
+A12="37.91"/>
+  </Points>
+ <Citations from="2010" to="2019" CI="332"/>
+ <Achievements>
+   <Evaluation cat="A11" value="48.28" rating="0.13"/>
+   <Evaluation cat="AII" value="0" rating="0"/>
+   <Evaluation cat="AI" value="0" rating="0"/>
+   <Evaluation cat="A12" value="37.91" rating="0.03"/>
+   <Evaluation cat="A1" rating="0.16"/>
+   <Evaluation cat="CI10" value="332"/>
+   <Evaluation cat="CImax" value="88"/>
+   <Evaluation cat="h-indeks" value="10"/>
+   <Evaluation cat="A31" rating="0"/>
+   <Evaluation cat="A32" rating="0"/>
+   <Evaluation cat="A33" rating="0"/>
+   <Evaluation cat="A34" rating="0"/>
+   <Evaluation cat="A35" rating="0"/>
+   <Evaluation cat="A3" rating="0"/>
+ </Achievements>
+  </Recapitulation>
+
+  
+  
+  
+<BiblioDiv>
+  <Title>ČLANKI IN DRUGI SESTAVNI DELI</Title>
+  <BiblioList>
+    <Title>1.01 Izvirni znanstveni članek</Title>
+  
+    <BiblioEntry bno="1" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Ana</FirstName>
+ <SurName>Bajc Česnik</SurName>
+ <Code>37466</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>240427107</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Simona</FirstName>
+ <SurName>Darovic</SurName>
+ <Code>35462</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>223960419</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Sonja</FirstName>
+ <SurName>Prpar Mihevc</SurName>
+ <Code>30710</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>94267235</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Maja</FirstName>
+ <SurName>Štalekar</SurName>
+ <Code>33328</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>187765859</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Mirjana</FirstName>
+ <SurName>Malnar</SurName>
+ <Code>39147</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>258102371</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Helena</FirstName>
+ <SurName>Motaln</SurName>
+ <Code>21397</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>5064291</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Youn-Bok</FirstName>
+ <SurName>Lee</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>244321635</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Julija</FirstName>
+ <SurName>Mazej</SurName>
+ <Code>52439</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>256374627</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Pohleven</SurName>
+ <Code>26507</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>36804963</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Markus</FirstName>
+ <SurName>Grosch</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>296590691</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Miha</FirstName>
+ <SurName>Modic</SurName>
+ <Code>50784</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>97392739</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Marko</FirstName>
+ <SurName>Fonović</SurName>
+ <Code>18801</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>17235555</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Boris</FirstName>
+ <SurName>Turk</SurName>
+ <Code>07561</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>2811747</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Micha</FirstName>
+ <SurName>Drukker</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>276671331</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Christopher E.</FirstName>
+ <SurName>Shaw</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>168568163</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Boris</FirstName>
+ <SurName>Rogelj</SurName>
+ <Code>15813</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>4299875</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Nuclear RNA foci from C9ORF72 expansion mutation form 
+paraspeckle-like bodies</Title>
+      <TitleISBD>Nuclear RNA foci from C9ORF72 expansion mutation form 
+paraspeckle-like bodies / Ana Bajc Česnik ... [et al.]</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>Journal of cell science</Title>
+        <TitleISBD>Journal of cell science</TitleISBD>
+        <Keytitle>J Cell Sci</Keytitle>
+      <ISSN>0021-9533</ISSN>
+      </BiblioSet>
+      <PubDate>2019</PubDate>
+      <Country code="gbr"/>
+      <Numbering>
+        <VolumeNum>vol. 132</VolumeNum>
+        <IssueNum>issue 5</IssueNum>
+        <Year>2019</Year>
+        <ArtPageNums>str. 1-14</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 1-14</Extent>
+      </PhysicalAttributes>
+      <Identifier>
+        <DOI>10.1242/jcs.224303</DOI>
+      </Identifier>
+      <ISSN>0021-9533</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 9-10</Summaries>
+      </Notes>
+      <UDK>577</UDK>
+      <Typology id="1.01"
+ ver="OSICN">izvirni znanstveni članek</Typology>
+      <COBISS co="SI" id="32174887">
+      https://plus.si.cobiss.net/opac7/bib/32174887</COBISS>
+      
+<JCR>http://www.cobiss.si/scripts/cobiss?command=SEARCH&amp;base=jcr&amp;select=(sc=0021-9533+and+PY=2019)</JCR>
+
+      
+<SNIP>http://www.cobiss.si/scripts/cobiss?command=SEARCH&amp;base=snip&amp;select=(sc=0021-9533+and+PY=2019)</SNIP>
+
+      <Evaluation cat="1A2 (Z, A1/2)" range="SCI, Scopus, MBP" 
+points="7.45" authno="1/16"/>
+      <EvaluationJCR cat="1A2 (Z, A1/2)"/>
+      <WoS date="13. 11. 2022" TC="22" CI="19" 
+CIAu="1.58">http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcAuth=Alerting&amp;SrcApp=Alerting&amp;DestApp=WOS&amp;DestLinkType=FullRecord&amp;KeyUT=000461414300024</WoS>
+
+      <Scopus date="1. 12. 2022" TC="25" CI="22" 
+CIAu="1.83">http://www.scopus.com/inward/record.url?partnerID=2dRBettD&amp;eid=2-s2.0-85062627079</Scopus>
+
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>1.02 Pregledni znanstveni članek</Title>
+  
+    <BiblioEntry bno="2" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Jure</FirstName>
+ <SurName>Pohleven</SurName>
+ <Dates>1979-</Dates>
+ <Code>26507</Code>
+ <CodeOrg>4-088</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>36804963</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Michael David</FirstName>
+ <SurName>Burnard</SurName>
+ <Code>36182</Code>
+ <CodeOrg>3-300</CodeOrg>
+ <CodeOrg>4-088</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>241528931</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Andreja</FirstName>
+ <SurName>Kutnar</SurName>
+ <Code>31274</Code>
+ <CodeOrg>3-300</CodeOrg>
+ <CodeOrg>4-088</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>21192803</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Volatile organic compounds emitted from untreated and 
+thermally modified wood - a review</Title>
+      <TitleISBD>Volatile organic compounds emitted from untreated and 
+thermally modified wood - a review / Jure Pohleven, Michael D. Burnard, 
+Andreja Kutnar</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>Wood and fiber science</Title>
+        <TitleISBD>Wood and fiber science</TitleISBD>
+        <Keytitle>Wood fiber sci.</Keytitle>
+      <ISSN>0735-6161</ISSN>
+      </BiblioSet>
+      <PubDate>2019</PubDate>
+      <Country code="usa"/>
+      <Numbering>
+        <VolumeNum>iss. 3</VolumeNum>
+        <IssueNum>vol. 51</IssueNum>
+        <Year>2019</Year>
+        <ArtDetails>str. 1-24</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Details>str. 1-24</Details>
+      </PhysicalAttributes>
+      <Identifier>
+        <DOI>10.22382/wfs-2019-023</DOI>
+      </Identifier>
+      <ISSN>0735-6161</ISSN>
+      <Notes>
+        <Summaries>Abstract</Summaries>
+        <Summaries>Bibliografija: str. 21-24</Summaries>
+      </Notes>
+      <Descriptors lang="eng">wood /thermally modified wood /volatile 
+organic compounds /VOCs /emissions</Descriptors>
+      <UDK>674</UDK>
+      <ClassNumber code="udc">674</ClassNumber>
+      <Typology id="1.02"
+ ver="OSICT">pregledni znanstveni članek</Typology>
+      <Link rel="1">
+        <URL>https://wfs.swst.org/index.php/wfs/article/view/2863</URL>
+      </Link>
+      <COBISS co="SI" id="1541438660">
+      https://plus.si.cobiss.net/opac7/bib/1541438660</COBISS>
+      
+<JCR>http://www.cobiss.si/scripts/cobiss?command=SEARCH&amp;base=jcr&amp;select=(sc=0735-6161+and+PY=2019)</JCR>
+
+      
+<SNIP>http://www.cobiss.si/scripts/cobiss?command=SEARCH&amp;base=snip&amp;select=(sc=0735-6161+and+PY=2019)</SNIP>
+
+      <Evaluation cat="1A2 (Z, A1/2)" range="SCI, Scopus, MBP" 
+points="30.46" authno="1/3"/>
+      <EvaluationJCR cat="1A2 (Z, A1/2)"/>
+      <WoS date="16. 1. 2023" TC="27" CI="27" 
+CIAu="9.00">http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcAuth=Alerting&amp;SrcApp=Alerting&amp;DestApp=WOS&amp;DestLinkType=FullRecord&amp;KeyUT=000478041400001</WoS>
+
+      <Scopus date="16. 1. 2023" TC="26" CI="26" 
+CIAu="8.67">http://www.scopus.com/inward/record.url?partnerID=2dRBettD&amp;eid=2-s2.0-85079811030</Scopus>
+
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>1.04 Strokovni članek</Title>
+  
+    <BiblioEntry bno="3" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Jure</FirstName>
+ <SurName>Pohleven</SurName>
+ <Dates>1979-</Dates>
+ <Code>26507</Code>
+ <CodeOrg>4-088</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>36804963</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Blagodejni učinki hlapnih organskih spojin iz lesa</Title>
+      <TitleISBD>Blagodejni učinki hlapnih organskih spojin iz lesa / Jure 
+Pohleven</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>Lesarski utrip</Title>
+        <TitleISBD>Lesarski utrip</TitleISBD>
+        <Keytitle>Lesar. utrip</Keytitle>
+      <ISSN>1318-7732</ISSN>
+      </BiblioSet>
+      <PubDate>2018</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <VolumeNum>let. 24</VolumeNum>
+        <IssueNum>št. 163</IssueNum>
+        <Year>2018</Year>
+        <ArtPageNums>str. 37</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 37</Extent>
+      </PhysicalAttributes>
+      <ISSN>1318-7732</ISSN>
+      <Descriptors lang="slv">lesna industrija</Descriptors>
+      <UDK>674</UDK>
+      <ClassNumber code="udc">674</ClassNumber>
+      <Typology id="1.04">strokovni članek</Typology>
+      <COBISS co="SI" id="1540992196">
+      https://plus.si.cobiss.net/opac7/bib/1540992196</COBISS>
+      <Evaluation cat="SU (S)" points="5" authno="1/1"/>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>1.08 Objavljeni znanstveni prispevek na konferenci</Title>
+  
+    <BiblioEntry bno="4" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Anja</FirstName>
+ <SurName>Jutraž</SurName>
+ <Code>31865</Code>
+ <CodeOrg>4-057</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>168269667</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Andreja</FirstName>
+ <SurName>Kukec</SurName>
+ <Code>30640</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>103310691</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Peter</FirstName>
+ <SurName>Otorepec</SurName>
+ <Code>19501</Code>
+ <CodeOrg>4-057</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4822115</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ladi</FirstName>
+ <SurName>Lampič</SurName>
+ <CodeOrg>4-057</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>332351587</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Pohleven</SurName>
+ <Code>26507</Code>
+ <CodeOrg>4-088</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>36804963</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jakub Michal</FirstName>
+ <SurName>Sandak</SurName>
+ <Code>50461</Code>
+ <CodeOrg>4-088</CodeOrg>
+ <CodeOrg>3-300</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>234120547</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Katja</FirstName>
+ <SurName>Malovrh Rebec</SurName>
+ <Code>37333</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>83512931</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Monika</FirstName>
+ <SurName>Varkonji</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>38967907</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Monitoring environmental and health impact data in BIM models 
+to assure healthy living environments</Title>
+      <TitleISBD>Monitoring environmental and health impact data in BIM 
+models to assure healthy living environments [Elektronski vir] / Anja 
+Jutraž ... [et al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        <Editor>
+  <FirstName>José</FirstName>
+  <SurName>Sousa</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Pedro Xavier</FirstName>
+  <SurName>João</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>eCAADe SIGraDi 2019 : proceedings of the 37th Conference on 
+Education and Research in Computer Aided Architectural Design in Europe : 
+the 23rd Conference of the Iberoamerican Society Digital Graphics, Porto, 
+Portugal, 11th-13th Septemebr 2019. Vol. 2, Architecture in the Age of the 
+4th Industrial Revolution</Title>
+        <TitleISBD>eCAADe SIGraDi 2019 [Elektronski vir]. Vol. 2, 
+Architecture in the Age of the 4th Industrial Revolution / Edited by José 
+Sousa, Gonçalo Castro Henriques, João Pedro Xavier</TitleISBD>
+        <Subtitle>proceedings of the 37th Conference on Education and 
+Research in Computer Aided Architectural Design in Europe</Subtitle>
+        <Subtitle>the 23rd Conference of the Iberoamerican Society Digital 
+Graphics, Porto, Portugal, 11th-13th Septemebr 2019</Subtitle>
+      <ISBN>978-94-91207-18-1</ISBN>
+        <Edition>1st ed.</Edition>
+        <Publisher>
+        <Address>Brussels</Address>
+        <PublisherName>Education and Research in Computer Aided 
+Architectural Design in Europe</PublisherName>
+        <Address>Rio de Janeiro</Address>
+        <PublisherName>Iberoamerican Society of Digital 
+Graphics</PublisherName>
+        <Address>Porto</Address>
+        <PublisherName>Faculty of Architecture</PublisherName>
+        </Publisher>
+      <PublisherISBD>Brussels : Education and Research in Computer Aided 
+Architectural Design in Europe ; Rio de Janeiro : Iberoamerican Society of 
+Digital Graphics ; Porto : Faculty of Architecture, cop. 
+2019</PublisherISBD>
+        <PubDate>cop. 2019</PubDate>
+      <Country code="prt"/>
+      </BiblioSet>
+      <Material>
+        <Electronic>El. članek</Electronic>
+      </Material>
+      <PubDate>2019</PubDate>
+      <Country code="prt"/>
+      <Numbering>
+        <ArtPageNums>str. 287-294</ArtPageNums>
+        <ArtDetails>ilustr</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 287-294</Extent>
+        <Details>ilustr</Details>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 294</Summaries>
+      </Notes>
+      <Descriptors lang="eng">Building Information Modeling (BIM) 
+/environmental impact data /indoor comfort /health impact data /healthy 
+living environment</Descriptors>
+      <UDK>61</UDK>
+      <ClassNumber code="udc">61</ClassNumber>
+      <Typology id="1.08"
+ ver="OSICT">objavljeni znanstveni prispevek na konferenci</Typology>
+      <Link rel="0">
+        
+<URL>https://www.dropbox.com/s/hg8useftsnd4fh9/eCAADe-SIGraDi2019-proceedings-volume2.pdf?dl=0</URL>
+
+      </Link>
+      <COBISS co="SI" id="1541560772">
+      https://plus.si.cobiss.net/opac7/bib/1541560772</COBISS>
+      <Evaluation cat="4C (Z)" points="3.13" authno="1/8"/>
+      <WoS date="3. 11. 2022" TC="3" CI="3" 
+CIAu="0.38">http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcAuth=Alerting&amp;SrcApp=Alerting&amp;DestApp=WOS&amp;DestLinkType=FullRecord&amp;KeyUT=000562937300033</WoS>
+
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>1.12 Objavljeni povzetek znanstvenega prispevka na konferenci</Title>
+  
+    <BiblioEntry bno="5" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Michael David</FirstName>
+ <SurName>Burnard</SurName>
+ <Code>36182</Code>
+ <CodeOrg>3-300</CodeOrg>
+ <CodeOrg>4-088</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>241528931</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Pohleven</SurName>
+ <Code>26507</Code>
+ <CodeOrg>4-088</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>36804963</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Marko</FirstName>
+ <SurName>Posavčević</SurName>
+ <Code>39241</Code>
+ <CodeOrg>3-300</CodeOrg>
+ <CodeOrg>4-088</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>254205539</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Dean</FirstName>
+ <SurName>Lipovac</SurName>
+ <Code>50968</Code>
+ <CodeOrg>4-088</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>255994467</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Human health research at the InnoRenew CoE : an overview of 
+ongoing research to improve human health in the built environment</Title>
+      <TitleISBD>Human health research at the InnoRenew CoE [Elektronski 
+vir] : an overview of ongoing research to improve human health in the built 
+environment / Michael David Burnard ... [et al.]</TitleISBD>
+        <Subtitle>an overview of ongoing research to improve human health 
+in the built environment</Subtitle>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor>61st International Convention of the Society of 
+Wood Science and Technology and Japan Wood Research Society November 5-9, 
+2018, Nagoya, Japan</CorpAuthor>
+        <Editor>
+  <FirstName>Susan L.</FirstName>
+  <SurName>LeVan-Green</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Proceedings of the 61st International Convention of the 
+Society of Wood Science and Technology and Japan Wood Research Society 
+November 5-9, 2018, Nagoya, Japan</Title>
+        <TitleISBD>Proceedings of the 61st International Convention of the 
+Society of Wood Science and Technology and Japan Wood Research Society 
+November 5-9, 2018, Nagoya, Japan [Elektronski vir] / edited by Susan 
+LeVan-Green</TitleISBD>
+      <ISBN>978-0-9817876-8-8</ISBN>
+        <Publisher>
+        <Address>Nagoya</Address>
+        <PublisherName>[s. n.]</PublisherName>
+        </Publisher>
+      <PublisherISBD>Nagoya : [s. n.], 2018</PublisherISBD>
+        <PubDate>2018</PubDate>
+      <Country code="jpn"/>
+      </BiblioSet>
+      <Material>
+        <Electronic>El. izvleček</Electronic>
+      </Material>
+      <PubDate>2018</PubDate>
+      <Country code="jpn"/>
+      <Numbering>
+        <ArtPageNums>str. 421-422</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 421-422</Extent>
+      </PhysicalAttributes>
+      <Notes>
+        <SysRequirements>Sistemske zahteve: vhod za USB ključ, Adobe 
+Reader</SysRequirements>
+      </Notes>
+      <Descriptors lang="eng">human health /built environment /restorative 
+environmental and ergonomic design /VOC /physiology 
+/psychology</Descriptors>
+      <UDK>674</UDK>
+      <ClassNumber code="udc">674</ClassNumber>
+      <Typology id="1.12">objavljeni povzetek znanstvenega prispevka na 
+konferenci</Typology>
+      <COBISS co="SI" id="1540872900">
+      https://plus.si.cobiss.net/opac7/bib/1540872900</COBISS>
+      <Evaluation cat="SU (S)" points="0.5" authno="1/4"/>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="6" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Simona</FirstName>
+ <SurName>Darovic</SurName>
+ <Code>35462</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>223960419</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Sonja</FirstName>
+ <SurName>Prpar Mihevc</SurName>
+ <Code>30710</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>94267235</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ana</FirstName>
+ <SurName>Bajc Česnik</SurName>
+ <Code>37466</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>240427107</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Maja</FirstName>
+ <SurName>Štalekar</SurName>
+ <Code>33328</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>187765859</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Youn-Bok</FirstName>
+ <SurName>Lee</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>244321635</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Pohleven</SurName>
+ <Code>26507</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>36804963</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Miha</FirstName>
+ <SurName>Modic</SurName>
+ <Code>50784</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>97392739</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Marko</FirstName>
+ <SurName>Fonović</SurName>
+ <Code>18801</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>17235555</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Boris</FirstName>
+ <SurName>Turk</SurName>
+ <Code>07561</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>2811747</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Micha</FirstName>
+ <SurName>Drukker</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>276671331</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Christopher E.</FirstName>
+ <SurName>Shaw</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>168568163</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Boris</FirstName>
+ <SurName>Rogelj</SurName>
+ <Code>15813</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>4299875</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Intranuclear (G4C2)n RNA foci, transcribed from C9ORF72 
+hexanucleotide expansion mutation, form paraspeckle-like structures</Title>
+      <TitleISBD>Intranuclear (G4C2)n RNA foci, transcribed from C9ORF72 
+hexanucleotide expansion mutation, form paraspeckle-like structures 
+[Elektronski vir] / Simona Darovic ... [et al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor>European Network to Cure ALS - ENCALS Meeting 2017, 
+18-20 May 2017, Ljubljana, Slovenia</CorpAuthor>
+        <Editor>
+  <FirstName>Ana</FirstName>
+  <SurName>Štublar</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Petra</FirstName>
+  <SurName>Prunk</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Blaž</FirstName>
+  <SurName>Koritnik</SurName>
+  <Code>21239</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Book of abstracts</Title>
+        <TitleISBD>Book of abstracts [Elektronski vir] / European Network 
+to Cure ALS - ENCALS Meeting 2017, 18-20 May 2017, Ljubljana, 
+Slovenia</TitleISBD>
+      <ISBN>978-961-94228-0-9</ISBN>
+        <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>Slovenian Society of Clinical 
+Neurophysiology</PublisherName>
+        </Publisher>
+      <PublisherISBD>Ljubljana : Slovenian Society of Clinical 
+Neurophysiology, 2017</PublisherISBD>
+        <PubDate>2017</PubDate>
+      <Country code="svn"/>
+      </BiblioSet>
+      <Material>
+        <Electronic>El. prispevek</Electronic>
+      </Material>
+      <PubDate>2017</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <ArtPageNums>str. 78</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 78</Extent>
+      </PhysicalAttributes>
+      <UDK>577</UDK>
+      <Typology id="1.12">objavljeni povzetek znanstvenega prispevka na 
+konferenci</Typology>
+      <Link rel="0">
+        
+<URL>https://www.encals.eu/meetings/encals-meeting-2017-ljubljana-slovenia/</URL>
+
+      </Link>
+      <COBISS co="SI" id="30622503">
+      https://plus.si.cobiss.net/opac7/bib/30622503</COBISS>
+      <Evaluation cat="SU (S)" points="0.19" authno="1/12"/>
+    </BiblioEntry>
+  
+  </BiblioList>
+</BiblioDiv>
+<BiblioDiv>
+  <Title>IZVEDENA DELA (DOGODKI)</Title>
+  <BiblioList>
+    <Title>3.14 Predavanje na tuji univerzi</Title>
+  
+    <BiblioEntry bno="7" type="performedwork">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Jure</FirstName>
+ <SurName>Pohleven</SurName>
+ <Dates>1979-</Dates>
+ <Code>26507</Code>
+ <CodeOrg>4-088</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>36804963</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>The InnoRenew CoE and the research on beneficial effects of 
+volatile organic copmounds from wood on human well-being, Fraunhofer 
+Institue for Wood Research, Braunschweig, 12-13 December 2017</Title>
+      <TitleISBD>The InnoRenew CoE and the research on beneficial effects 
+of volatile organic copmounds from wood on human well-being, Fraunhofer 
+Institue for Wood Research, Braunschweig, 12-13 December 2017 / Jure 
+Pohleven</TitleISBD>
+      <PubDate>2017</PubDate>
+      <Country code="deu"/>
+      <UDK>630*8</UDK>
+      <ClassNumber code="udc">360*8</ClassNumber>
+      <Typology id="3.14">predavanje na tuji univerzi</Typology>
+      <COBISS co="SI" id="1540043460">
+      https://plus.si.cobiss.net/opac7/bib/1540043460</COBISS>
+      <Evaluation cat="SU (S)" points="2" authno="1/1"/>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>3.15 Prispevek na konferenci brez natisa</Title>
+  
+    <BiblioEntry bno="8" type="performedwork">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Jure</FirstName>
+ <SurName>Pohleven</SurName>
+ <Dates>1979-</Dates>
+ <Code>26507</Code>
+ <CodeOrg>4-088</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>36804963</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Wood, VOCs, cancer, immunoactivity, 1st International 
+conference: Timber - a healthy future for sustainable buildings, 7th March 
+2019, Koper</Title>
+      <TitleISBD>Wood, VOCs, cancer, immunoactivity, 1st International 
+conference: Timber - a healthy future for sustainable buildings, 7th March 
+2019, Koper / Jure Pohleven</TitleISBD>
+      <PubDate>2019</PubDate>
+      <Country code="svn"/>
+      <Descriptors lang="slv">življenjski slog /grajeno okolje</Descriptors>
+      <UDK>728</UDK>
+      <ClassNumber code="udc">728:630*8</ClassNumber>
+      <Typology id="3.15">prispevek na konferenci brez natisa</Typology>
+      <COBISS co="SI" id="1541130948">
+      https://plus.si.cobiss.net/opac7/bib/1541130948</COBISS>
+      <Evaluation cat="SU (S)" points="1" authno="1/1"/>
+    </BiblioEntry>
+  
+  
+  </BiblioList>
+</BiblioDiv>
+</Bibliography>
